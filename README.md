@@ -6,7 +6,7 @@ The data work consist of three parts:
 2. Data visualisation: Using above prepared data, the visualisations are graphs used in the manuscript.
 3. Tables: These are products of estimations (regressions) given as tables used in the manuscript.
 
-The folder "Data" consist of all raw data (KGZ lik 2010-2019 micro survey, statistical data from Russian Gosstat etc.)
+The repository has complementary data used in the research. These are data on immigration flow into RF, CPI indexes in KGZ and survey results in return intention of migrants. The main data set is too big to upload (KGZ LiK 2010-2019).
 
 PS: The work is still on going....
 
